@@ -1,0 +1,12 @@
+How to push code to Netlify
+
+>1<. Command Prompt
+cd insert folder with file code 
+>2<. git init
+reposit kng github
+>3<. git remote ad origin copy url pi github and paste into cmp
+>4<. git add .
+>5<. git commit -m "first commit"
+>6<. git push origin master
+>7<. go to Netlify.com
+>8<. github......
